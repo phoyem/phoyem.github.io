@@ -1588,7 +1588,7 @@ label {
     }
 }
 
-@media (min-width: 1025px) {
+/* @media (min-width: 1025px) {
     .features .section-inner {
         padding-bottom: 168px;
     }
@@ -1596,7 +1596,7 @@ label {
         top: 80px;
     }
 }
-
+ */
 .testimonials {
     position: relative;
 }
